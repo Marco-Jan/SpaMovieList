@@ -1,0 +1,52 @@
+{
+  "movies": [
+    {
+      "title": "Die Verurteilten",
+      "director": "Frank Darabont",
+      "social": "@TheShawshankRedemption",
+      "img": "https://m.media-amazon.com/images/M/MV5BMTM0NjUxMDk5MF5BMl5BanBnXkFtZTcwNDMxNDY3Mw@@._V1_FMjpg_UX1800_.jpg",
+      "runtime": "142",
+      "id": "1"
+    },
+    {
+      "title": "The Godfather",
+      "director": "Francis Ford Coppola",
+      "social": "@TheGodfather",
+      "img": "https://m.media-amazon.com/images/M/MV5BNDkwMTFjZjItNzQ2ZC00NWU1LWJlODItNTcxYTkyNmUyN2ExXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_FMjpg_UY2908_.jpg",
+      "runtime": "176",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "title": "The Dark Knight",
+      "director": "Christopher Nolan",
+      "runtime": 152,
+      "social": "@TheDarkKnight",
+      "img": "https://www.imdb.com/title/tt0468569/mediaviewer/rm4261863680"
+    },
+    {
+      "id": "4",
+      "title": "12 Angry",
+      "director": "Sidney Lumet",
+      "runtime": 96,
+      "social": "@12Angry",
+      "img": "https://www.imdb.com/title/tt0050083/mediaviewer/rm4261863680"
+    },
+    {
+      "id": "5",
+      "title": "Schindler's List",
+      "director": "Steven Spielberg",
+      "runtime": 195,
+      "social": "@SchindlersList",
+      "img": "https://www.imdb.com/title/tt0108052/mediaviewer/rm4261863680"
+    },
+    {
+      "title": "dfd",
+      "director": "dfdf",
+      "social": "",
+      "img": "",
+      "runtime": "0",
+      "id": "gt1hra5"
+    }
+  ]
+}
