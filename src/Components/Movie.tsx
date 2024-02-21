@@ -1,5 +1,5 @@
 import { Form, useLoaderData } from "react-router-dom";
-import { getMovie } from "./handleMovies"
+import { deleteMovie, getMovie } from "./handleMovies"
 
 type MovieType = {
     id: string;
@@ -38,9 +38,8 @@ export default function Movie() {
                     <Form
                         method="post"
                         action="destroy"
-                        onSubmit={(e) => {
-                            e.preventDefault();
-                        }}>
+                        >
+                        
                         <button type="submit">Delete</button>
                     </Form>
                 </div>
