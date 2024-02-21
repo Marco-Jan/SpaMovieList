@@ -67,14 +67,14 @@ export async function updateMovie(id: string, movie: Movie) {
     return movie;
 }
 
-// export async function deleteMovie(id: string){
-//     await fakeDelay("");
-//     await fetch(`http://localhost:5001/movies/${id}`, {
-//         method: "DELETE",
-//     });
-//     return;
+export async function deleteMovie(id: string){
+    await fakeDelay("");
+    await fetch(`http://localhost:5001/movies/${id}`, {
+        method: "DELETE",
+    });
+    return;
 
-// }
+}
 
 export async function action({
     request,
