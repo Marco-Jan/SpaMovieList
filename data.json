@@ -31,14 +31,6 @@
       "runtime": 96,
       "social": "@12Angry",
       "img": "https://www.imdb.com/title/tt0050083/mediaviewer/rm4261863680"
-    },
-    {
-      "id": "5",
-      "title": "Schindler's List",
-      "director": "Steven Spielberg",
-      "runtime": 195,
-      "social": "@SchindlersList",
-      "img": "https://www.imdb.com/title/tt0108052/mediaviewer/rm4261863680"
     }
   ]
 }
